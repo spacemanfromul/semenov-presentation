@@ -2349,5 +2349,1520 @@
         }
       ]
     }
-  ]
+  ],
+  "metadata_report": {
+    "date": "2026-10-29",
+    "method": "ISO BMFF atom inspection; mdat not decoded; no watermark/provenance signature validation",
+    "files": [
+      {
+        "file": "20261014_232341185 (1).mp4",
+        "bytes": 4284457,
+        "sha256": "27f5925ee110c8d02e9d1a0f292f70f843d4d654ea7ae901a4e7405f37c3794a",
+        "atoms": [
+          {
+            "path": "/ftyp",
+            "bytes": 32
+          },
+          {
+            "path": "/moov",
+            "bytes": 5304
+          },
+          {
+            "path": "/moov/mvhd",
+            "bytes": 108
+          },
+          {
+            "path": "/moov/trak",
+            "bytes": 2894
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "bytes": 92
+          },
+          {
+            "path": "/moov/trak/edts",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/edts/elst",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia",
+            "bytes": 2758
+          },
+          {
+            "path": "/moov/trak/mdia/mdhd",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/hdlr",
+            "bytes": 45
+          },
+          {
+            "path": "/moov/trak/mdia/minf",
+            "bytes": 2673
+          },
+          {
+            "path": "/moov/trak/mdia/minf/smhd",
+            "bytes": 16
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf/dref",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl",
+            "bytes": 2613
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsd",
+            "bytes": 123
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsc",
+            "bytes": 748
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsz",
+            "bytes": 1068
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stco",
+            "bytes": 588
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/sgpd",
+            "bytes": 26
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/sbgp",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak",
+            "bytes": 1766
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "bytes": 92
+          },
+          {
+            "path": "/moov/trak/edts",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/edts/elst",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia",
+            "bytes": 1630
+          },
+          {
+            "path": "/moov/trak/mdia/mdhd",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/hdlr",
+            "bytes": 45
+          },
+          {
+            "path": "/moov/trak/mdia/minf",
+            "bytes": 1545
+          },
+          {
+            "path": "/moov/trak/mdia/minf/vmhd",
+            "bytes": 20
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf/dref",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl",
+            "bytes": 1481
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsd",
+            "bytes": 177
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stss",
+            "bytes": 20
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/ctts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsc",
+            "bytes": 40
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsz",
+            "bytes": 600
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stco",
+            "bytes": 588
+          },
+          {
+            "path": "/moov/udta",
+            "bytes": 528
+          },
+          {
+            "path": "/moov/udta/meta",
+            "bytes": 520
+          },
+          {
+            "path": "/moov/udta/meta/hdlr",
+            "bytes": 33
+          },
+          {
+            "path": "/moov/udta/meta/keys",
+            "bytes": 108
+          },
+          {
+            "path": "/moov/udta/meta/ilst",
+            "bytes": 367
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0001",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0002",
+            "bytes": 27
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0003",
+            "bytes": 40
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0004",
+            "bytes": 227
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0005",
+            "bytes": 37
+          },
+          {
+            "path": "/free",
+            "bytes": 8
+          },
+          {
+            "path": "/mdat",
+            "bytes": 4279113
+          }
+        ],
+        "metadata": [
+          {
+            "path": "/moov/mvhd",
+            "kind": "duration",
+            "timescale": 1000,
+            "seconds": 6.042
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "kind": "dimensions",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "kind": "dimensions",
+            "width": 828,
+            "height": 1108
+          },
+          {
+            "path": "/moov/udta/meta/hdlr",
+            "kind": "metadata_payload",
+            "bytes": 25,
+            "text": "mdta",
+            "hex_prefix": "00000000000000006d647461000000000000000000000000"
+          },
+          {
+            "path": "/moov/udta/meta/keys",
+            "kind": "metadata_payload",
+            "bytes": 100,
+            "text": "mdtamajor_brand    mdtaminor_version    mdtacompatible_brands    mdtaAIGC    mdtaencoder",
+            "hex_prefix": "0000000000000005000000136d6474616d616a6f725f6272"
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0001",
+            "kind": "metadata_payload",
+            "bytes": 20,
+            "text": "data        isom",
+            "hex_prefix": "0000001464617461000000010000000069736f6d"
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0002",
+            "kind": "metadata_payload",
+            "bytes": 19,
+            "text": "data        512",
+            "hex_prefix": "00000013646174610000000100000000353132"
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0003",
+            "kind": "metadata_payload",
+            "bytes": 32,
+            "text": "data        isomiso2avc1mp41",
+            "hex_prefix": "0000002064617461000000010000000069736f6d69736f32"
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0004",
+            "kind": "metadata_payload",
+            "bytes": 219,
+            "text": "�data        {\"Label\":\"1\",\"ContentProducer\":\"kling\",\"ProduceID\":\"SGP_PROD_ai_web_323980749501287\",\"ReservedCode1\":null,\"ContentPropagator\":\"kling\",\"PropagateID\":\"SGP_PROD_ai_web_323980749501287\",\"ReservedCode2\":null}",
+            "hex_prefix": "000000db6461746100000001000000007b224c6162656c22"
+          },
+          {
+            "path": "/moov/udta/meta/ilst/\u0000\u0000\u0000\u0005",
+            "kind": "metadata_payload",
+            "bytes": 29,
+            "text": "data        Lavf60.16.100",
+            "hex_prefix": "0000001d6461746100000001000000004c61766636302e31"
+          },
+          {
+            "path": "/free",
+            "kind": "metadata_payload",
+            "bytes": 0,
+            "text": "",
+            "hex_prefix": ""
+          }
+        ],
+        "parser_warnings": [],
+        "exact_asset_matches": [],
+        "cbor_assertions": [],
+        "prompt_found": false,
+        "findings": {
+          "prompt": "not_found_in_inspected_metadata",
+          "exact_model_version": null,
+          "signature_validation": "not_performed",
+          "producer_tag": "kling",
+          "produce_id": "SGP_PROD_ai_web_323980749501287"
+        }
+      },
+      {
+        "file": "gemini_generated_video_6c53b8da.mp4",
+        "bytes": 6510246,
+        "sha256": "e9554df91b4356a21242962fe19fa475bf423d793bb35a5b6a93acc080d606b5",
+        "atoms": [
+          {
+            "path": "/ftyp",
+            "bytes": 32
+          },
+          {
+            "path": "/uuid",
+            "bytes": 31770
+          },
+          {
+            "path": "/moov",
+            "bytes": 8339
+          },
+          {
+            "path": "/moov/mvhd",
+            "bytes": 108
+          },
+          {
+            "path": "/moov/trak",
+            "bytes": 4454
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "bytes": 92
+          },
+          {
+            "path": "/moov/trak/edts",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/edts/elst",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia",
+            "bytes": 4318
+          },
+          {
+            "path": "/moov/trak/mdia/mdhd",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/hdlr",
+            "bytes": 45
+          },
+          {
+            "path": "/moov/trak/mdia/minf",
+            "bytes": 4233
+          },
+          {
+            "path": "/moov/trak/mdia/minf/vmhd",
+            "bytes": 20
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf/dref",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl",
+            "bytes": 4169
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsd",
+            "bytes": 197
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stss",
+            "bytes": 20
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/ctts",
+            "bytes": 1928
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsc",
+            "bytes": 40
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsz",
+            "bytes": 980
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stco",
+            "bytes": 972
+          },
+          {
+            "path": "/moov/trak",
+            "bytes": 3678
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "bytes": 92
+          },
+          {
+            "path": "/moov/trak/edts",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/edts/elst",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia",
+            "bytes": 3542
+          },
+          {
+            "path": "/moov/trak/mdia/mdhd",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/hdlr",
+            "bytes": 45
+          },
+          {
+            "path": "/moov/trak/mdia/minf",
+            "bytes": 3457
+          },
+          {
+            "path": "/moov/trak/mdia/minf/smhd",
+            "bytes": 16
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf/dref",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl",
+            "bytes": 3397
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsd",
+            "bytes": 123
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsc",
+            "bytes": 316
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsz",
+            "bytes": 1900
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stco",
+            "bytes": 972
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/sgpd",
+            "bytes": 26
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/sbgp",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/udta",
+            "bytes": 91
+          },
+          {
+            "path": "/moov/udta/meta",
+            "bytes": 83
+          },
+          {
+            "path": "/moov/udta/meta/hdlr",
+            "bytes": 33
+          },
+          {
+            "path": "/moov/udta/meta/ilst",
+            "bytes": 38
+          },
+          {
+            "path": "/moov/udta/meta/ilst/©too",
+            "bytes": 30
+          },
+          {
+            "path": "/free",
+            "bytes": 8
+          },
+          {
+            "path": "/mdat",
+            "bytes": 6470097
+          }
+        ],
+        "metadata": [
+          {
+            "path": "/uuid",
+            "kind": "metadata_payload",
+            "bytes": 31762,
+            "hex_prefix": "d8fec3d61b0e483c92975828877ec481000000006d616e69",
+            "note": "Binary C2PA/JUMBF; selected CBOR assertions decoded separately."
+          },
+          {
+            "path": "/moov/mvhd",
+            "kind": "duration",
+            "timescale": 1000,
+            "seconds": 10.006
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "kind": "dimensions",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "kind": "dimensions",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "path": "/moov/udta/meta/hdlr",
+            "kind": "metadata_payload",
+            "bytes": 25,
+            "text": "mdirappl",
+            "hex_prefix": "00000000000000006d6469726170706c0000000000000000"
+          },
+          {
+            "path": "/moov/udta/meta/ilst/©too",
+            "kind": "metadata_payload",
+            "bytes": 22,
+            "text": "data        Google",
+            "hex_prefix": "00000016646174610000000100000000476f6f676c65"
+          },
+          {
+            "path": "/free",
+            "kind": "metadata_payload",
+            "bytes": 0,
+            "text": "",
+            "hex_prefix": ""
+          }
+        ],
+        "parser_warnings": [],
+        "exact_asset_matches": [],
+        "cbor_assertions": [
+          {
+            "actions": [
+              {
+                "action": "c2pa.created",
+                "when": "2026-10-14T10:22:31.302309452Z",
+                "softwareAgent": {
+                  "name": "ChatGPT",
+                  "version": "gpt-image"
+                },
+                "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia"
+              },
+              {
+                "action": "c2pa.converted",
+                "when": "2026-10-14T10:22:31.302315018Z"
+              },
+              {
+                "action": "c2pa.watermarked.unbound",
+                "when": "2026-10-14T10:22:31.299757483Z"
+              }
+            ],
+            "allActionsIncluded": false
+          },
+          {
+            "instanceID": "xmp:iid:c451b027-c97b-4b6b-835a-4089f3eedaf1",
+            "claim_generator_info": {
+              "name": "OpenAI Media Service API",
+              "icon": {
+                "url": "self#jumbf=c2pa.assertions/c2pa.icon",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              "org.contentauth.c2pa_rs": "0.79.2",
+              "specVersion": "2.2.0"
+            },
+            "signature": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.signature",
+            "created_assertions": [
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.icon",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.actions.v2",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.hash.data",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              }
+            ],
+            "dc:title": "image.png",
+            "alg": "sha256"
+          },
+          {
+            "instanceID": "8be8a82f-aab9-8b47-3a88-4389f3b93e6d",
+            "claim_generator_info": {
+              "name": "Google C2PA Core Generator Library",
+              "version": "1002251336:1002251336"
+            },
+            "created_assertions": [
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.ingredient.v3",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.actions.v2",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.hash.bmff.v3",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              }
+            ],
+            "signature": "self#jumbf=c2pa.signature",
+            "alg": "sha256"
+          },
+          {
+            "actions": [
+              {
+                "action": "c2pa.created",
+                "description": "Created by Google Generative AI.",
+                "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+                "parameters": {
+                  "ingredients": [
+                    {
+                      "url": "self#jumbf=c2pa.assertions/c2pa.ingredient.v3",
+                      "hash": {
+                        "binary_bytes": 32
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "action": "c2pa.edited",
+                "description": "Added imperceptible SynthID watermark",
+                "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia"
+              }
+            ]
+          },
+          {
+            "dc:format": "image/png",
+            "relationship": "inputTo",
+            "validationResults": {
+              "activeManifest": {
+                "failure": [],
+                "success": [
+                  {
+                    "code": "signingCredential.trusted",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.signature"
+                  },
+                  {
+                    "code": "claimSignature.insideValidity",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.signature"
+                  },
+                  {
+                    "code": "claimSignature.validated",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.signature"
+                  },
+                  {
+                    "code": "assertion.hashedURI.match",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.assertions/c2pa.icon"
+                  },
+                  {
+                    "code": "assertion.hashedURI.match",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.assertions/c2pa.actions.v2"
+                  },
+                  {
+                    "code": "assertion.hashedURI.match",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.assertions/c2pa.hash.data"
+                  },
+                  {
+                    "code": "assertion.dataHash.match",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.assertions/c2pa.hash.data"
+                  }
+                ],
+                "informational": [
+                  {
+                    "code": "timeStamp.untrusted",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.signature",
+                    "explanation": "timestamp certificate chain could not be validated: ----- Certificate i=2 (CN=OpenAI TSA Root CA,OU=TSA,O=OpenAI OpCo\\, LLC,L=San Francisco,ST=CA,C=US) -----\nERROR: No matching issuer found\n\n"
+                  },
+                  {
+                    "code": "signingCredential.ocsp.skipped",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.signature"
+                  }
+                ]
+              }
+            },
+            "activeManifest": {
+              "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace",
+              "hash": {
+                "binary_bytes": 32
+              }
+            },
+            "claimSignature": {
+              "url": "self#jumbf=/c2pa/urn:c2pa:7e69d532-dfb2-4104-b4a2-0e03b30d3ace/c2pa.signature",
+              "hash": {
+                "binary_bytes": 32
+              }
+            }
+          }
+        ],
+        "prompt_found": false,
+        "findings": {
+          "prompt": "not_found_in_inspected_metadata",
+          "exact_model_version": null,
+          "signature_validation": "not_performed",
+          "producer_tag": "Google",
+          "c2pa_present": true,
+          "synthid_assertion_present": true,
+          "input_image_software": "ChatGPT / gpt-image (ingredient image; not video model)"
+        }
+      },
+      {
+        "file": "gemini_generated_video_aae38650.mp4",
+        "bytes": 4279356,
+        "sha256": "d018cdabb3ca5813f54addd6f93300fb9321977e50dca3c1db04b81b40c2f8e5",
+        "atoms": [
+          {
+            "path": "/ftyp",
+            "bytes": 32
+          },
+          {
+            "path": "/uuid",
+            "bytes": 29997
+          },
+          {
+            "path": "/moov",
+            "bytes": 8339
+          },
+          {
+            "path": "/moov/mvhd",
+            "bytes": 108
+          },
+          {
+            "path": "/moov/trak",
+            "bytes": 4454
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "bytes": 92
+          },
+          {
+            "path": "/moov/trak/edts",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/edts/elst",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia",
+            "bytes": 4318
+          },
+          {
+            "path": "/moov/trak/mdia/mdhd",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/hdlr",
+            "bytes": 45
+          },
+          {
+            "path": "/moov/trak/mdia/minf",
+            "bytes": 4233
+          },
+          {
+            "path": "/moov/trak/mdia/minf/vmhd",
+            "bytes": 20
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf/dref",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl",
+            "bytes": 4169
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsd",
+            "bytes": 197
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stss",
+            "bytes": 20
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/ctts",
+            "bytes": 1928
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsc",
+            "bytes": 40
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsz",
+            "bytes": 980
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stco",
+            "bytes": 972
+          },
+          {
+            "path": "/moov/trak",
+            "bytes": 3678
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "bytes": 92
+          },
+          {
+            "path": "/moov/trak/edts",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/edts/elst",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia",
+            "bytes": 3542
+          },
+          {
+            "path": "/moov/trak/mdia/mdhd",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/hdlr",
+            "bytes": 45
+          },
+          {
+            "path": "/moov/trak/mdia/minf",
+            "bytes": 3457
+          },
+          {
+            "path": "/moov/trak/mdia/minf/smhd",
+            "bytes": 16
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf/dref",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl",
+            "bytes": 3397
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsd",
+            "bytes": 123
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsc",
+            "bytes": 316
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsz",
+            "bytes": 1900
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stco",
+            "bytes": 972
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/sgpd",
+            "bytes": 26
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/sbgp",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/udta",
+            "bytes": 91
+          },
+          {
+            "path": "/moov/udta/meta",
+            "bytes": 83
+          },
+          {
+            "path": "/moov/udta/meta/hdlr",
+            "bytes": 33
+          },
+          {
+            "path": "/moov/udta/meta/ilst",
+            "bytes": 38
+          },
+          {
+            "path": "/moov/udta/meta/ilst/©too",
+            "bytes": 30
+          },
+          {
+            "path": "/free",
+            "bytes": 8
+          },
+          {
+            "path": "/mdat",
+            "bytes": 4240980
+          }
+        ],
+        "metadata": [
+          {
+            "path": "/uuid",
+            "kind": "metadata_payload",
+            "bytes": 29989,
+            "hex_prefix": "d8fec3d61b0e483c92975828877ec481000000006d616e69",
+            "note": "Binary C2PA/JUMBF; selected CBOR assertions decoded separately."
+          },
+          {
+            "path": "/moov/mvhd",
+            "kind": "duration",
+            "timescale": 1000,
+            "seconds": 10.006
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "kind": "dimensions",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "kind": "dimensions",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "path": "/moov/udta/meta/hdlr",
+            "kind": "metadata_payload",
+            "bytes": 25,
+            "text": "mdirappl",
+            "hex_prefix": "00000000000000006d6469726170706c0000000000000000"
+          },
+          {
+            "path": "/moov/udta/meta/ilst/©too",
+            "kind": "metadata_payload",
+            "bytes": 22,
+            "text": "data        Google",
+            "hex_prefix": "00000016646174610000000100000000476f6f676c65"
+          },
+          {
+            "path": "/free",
+            "kind": "metadata_payload",
+            "bytes": 0,
+            "text": "",
+            "hex_prefix": ""
+          }
+        ],
+        "parser_warnings": [],
+        "exact_asset_matches": [],
+        "cbor_assertions": [
+          {
+            "actions": [
+              {
+                "action": "c2pa.created",
+                "when": "2026-10-14T10:44:39.463908194Z",
+                "softwareAgent": {
+                  "name": "ChatGPT",
+                  "version": "gpt-image"
+                },
+                "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia"
+              },
+              {
+                "action": "c2pa.converted",
+                "when": "2026-10-14T10:44:39.463913472Z"
+              },
+              {
+                "action": "c2pa.watermarked.unbound",
+                "when": "2026-10-14T10:44:39.462172372Z"
+              }
+            ],
+            "allActionsIncluded": false
+          },
+          {
+            "instanceID": "xmp:iid:06b01003-5af7-4775-801f-5a4ee5b341ae",
+            "claim_generator_info": {
+              "name": "OpenAI Media Service API",
+              "icon": {
+                "url": "self#jumbf=c2pa.assertions/c2pa.icon",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              "specVersion": "2.2.0",
+              "org.contentauth.c2pa_rs": "0.79.2"
+            },
+            "signature": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.signature",
+            "created_assertions": [
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.icon",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.actions.v2",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.hash.data",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              }
+            ],
+            "dc:title": "image.png",
+            "alg": "sha256"
+          },
+          {
+            "instanceID": "4fd190e4-f3a1-55ea-6e1b-40af5a59ba71",
+            "claim_generator_info": {
+              "name": "Google C2PA Core Generator Library",
+              "version": "999067133:999067133"
+            },
+            "created_assertions": [
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.ingredient.v3",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.actions.v2",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.hash.bmff.v3",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              }
+            ],
+            "signature": "self#jumbf=c2pa.signature",
+            "alg": "sha256"
+          },
+          {
+            "actions": [
+              {
+                "action": "c2pa.created",
+                "description": "Created by Google Generative AI.",
+                "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+                "parameters": {
+                  "ingredients": [
+                    {
+                      "url": "self#jumbf=c2pa.assertions/c2pa.ingredient.v3",
+                      "hash": {
+                        "binary_bytes": 32
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "action": "c2pa.edited",
+                "description": "Added imperceptible SynthID watermark",
+                "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia"
+              }
+            ]
+          },
+          {
+            "dc:format": "image/png",
+            "relationship": "inputTo",
+            "validationResults": {
+              "activeManifest": {
+                "failure": [],
+                "success": [
+                  {
+                    "code": "signingCredential.trusted",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.signature"
+                  },
+                  {
+                    "code": "claimSignature.insideValidity",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.signature"
+                  },
+                  {
+                    "code": "claimSignature.validated",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.signature"
+                  },
+                  {
+                    "code": "assertion.hashedURI.match",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.assertions/c2pa.icon"
+                  },
+                  {
+                    "code": "assertion.hashedURI.match",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.assertions/c2pa.actions.v2"
+                  },
+                  {
+                    "code": "assertion.hashedURI.match",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.assertions/c2pa.hash.data"
+                  },
+                  {
+                    "code": "assertion.dataHash.match",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.assertions/c2pa.hash.data"
+                  }
+                ],
+                "informational": [
+                  {
+                    "code": "timeStamp.untrusted",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.signature",
+                    "explanation": "timestamp certificate chain could not be validated: ----- Certificate i=2 (CN=OpenAI TSA Root CA,OU=TSA,O=OpenAI OpCo\\, LLC,L=San Francisco,ST=CA,C=US) -----\nERROR: No matching issuer found\n\n"
+                  },
+                  {
+                    "code": "signingCredential.ocsp.skipped",
+                    "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.signature"
+                  }
+                ]
+              }
+            },
+            "activeManifest": {
+              "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a",
+              "hash": {
+                "binary_bytes": 32
+              }
+            },
+            "claimSignature": {
+              "url": "self#jumbf=/c2pa/urn:c2pa:9e5d5819-c6ca-4f0c-b419-8130c98e237a/c2pa.signature",
+              "hash": {
+                "binary_bytes": 32
+              }
+            }
+          }
+        ],
+        "prompt_found": false,
+        "findings": {
+          "prompt": "not_found_in_inspected_metadata",
+          "exact_model_version": null,
+          "signature_validation": "not_performed",
+          "producer_tag": "Google",
+          "c2pa_present": true,
+          "synthid_assertion_present": true,
+          "input_image_software": "ChatGPT / gpt-image (ingredient image; not video model)"
+        }
+      },
+      {
+        "file": "gemini_generated_video_4de3a0b1.mp4",
+        "bytes": 2393006,
+        "sha256": "5c724f6bc24d982eec99804c8a8eb03f8745efa49d0929d4ce65f8903258e12b",
+        "atoms": [
+          {
+            "path": "/ftyp",
+            "bytes": 32
+          },
+          {
+            "path": "/uuid",
+            "bytes": 6562
+          },
+          {
+            "path": "/moov",
+            "bytes": 8327
+          },
+          {
+            "path": "/moov/mvhd",
+            "bytes": 108
+          },
+          {
+            "path": "/moov/trak",
+            "bytes": 4442
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "bytes": 92
+          },
+          {
+            "path": "/moov/trak/edts",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/edts/elst",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia",
+            "bytes": 4306
+          },
+          {
+            "path": "/moov/trak/mdia/mdhd",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/hdlr",
+            "bytes": 45
+          },
+          {
+            "path": "/moov/trak/mdia/minf",
+            "bytes": 4221
+          },
+          {
+            "path": "/moov/trak/mdia/minf/vmhd",
+            "bytes": 20
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf/dref",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl",
+            "bytes": 4157
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsd",
+            "bytes": 197
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stss",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/ctts",
+            "bytes": 1904
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsc",
+            "bytes": 40
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsz",
+            "bytes": 980
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stco",
+            "bytes": 972
+          },
+          {
+            "path": "/moov/trak",
+            "bytes": 3678
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "bytes": 92
+          },
+          {
+            "path": "/moov/trak/edts",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/edts/elst",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia",
+            "bytes": 3542
+          },
+          {
+            "path": "/moov/trak/mdia/mdhd",
+            "bytes": 32
+          },
+          {
+            "path": "/moov/trak/mdia/hdlr",
+            "bytes": 45
+          },
+          {
+            "path": "/moov/trak/mdia/minf",
+            "bytes": 3457
+          },
+          {
+            "path": "/moov/trak/mdia/minf/smhd",
+            "bytes": 16
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf",
+            "bytes": 36
+          },
+          {
+            "path": "/moov/trak/mdia/minf/dinf/dref",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl",
+            "bytes": 3397
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsd",
+            "bytes": 123
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stts",
+            "bytes": 24
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsc",
+            "bytes": 316
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stsz",
+            "bytes": 1900
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/stco",
+            "bytes": 972
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/sgpd",
+            "bytes": 26
+          },
+          {
+            "path": "/moov/trak/mdia/minf/stbl/sbgp",
+            "bytes": 28
+          },
+          {
+            "path": "/moov/udta",
+            "bytes": 91
+          },
+          {
+            "path": "/moov/udta/meta",
+            "bytes": 83
+          },
+          {
+            "path": "/moov/udta/meta/hdlr",
+            "bytes": 33
+          },
+          {
+            "path": "/moov/udta/meta/ilst",
+            "bytes": 38
+          },
+          {
+            "path": "/moov/udta/meta/ilst/©too",
+            "bytes": 30
+          },
+          {
+            "path": "/free",
+            "bytes": 8
+          },
+          {
+            "path": "/mdat",
+            "bytes": 2378077
+          }
+        ],
+        "metadata": [
+          {
+            "path": "/uuid",
+            "kind": "metadata_payload",
+            "bytes": 6554,
+            "hex_prefix": "d8fec3d61b0e483c92975828877ec481000000006d616e69",
+            "note": "Binary C2PA/JUMBF; selected CBOR assertions decoded separately."
+          },
+          {
+            "path": "/moov/mvhd",
+            "kind": "duration",
+            "timescale": 1000,
+            "seconds": 10.006
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "kind": "dimensions",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "path": "/moov/trak/tkhd",
+            "kind": "dimensions",
+            "width": 0,
+            "height": 0
+          },
+          {
+            "path": "/moov/udta/meta/hdlr",
+            "kind": "metadata_payload",
+            "bytes": 25,
+            "text": "mdirappl",
+            "hex_prefix": "00000000000000006d6469726170706c0000000000000000"
+          },
+          {
+            "path": "/moov/udta/meta/ilst/©too",
+            "kind": "metadata_payload",
+            "bytes": 22,
+            "text": "data        Google",
+            "hex_prefix": "00000016646174610000000100000000476f6f676c65"
+          },
+          {
+            "path": "/free",
+            "kind": "metadata_payload",
+            "bytes": 0,
+            "text": "",
+            "hex_prefix": ""
+          }
+        ],
+        "parser_warnings": [],
+        "exact_asset_matches": [],
+        "cbor_assertions": [
+          {
+            "instanceID": "62469fa9-f054-d81c-8125-433f7a76b821",
+            "claim_generator_info": {
+              "name": "Google C2PA Core Generator Library",
+              "version": "994388388:994388388"
+            },
+            "created_assertions": [
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.ingredient.v3",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.actions.v2",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              },
+              {
+                "url": "self#jumbf=c2pa.assertions/c2pa.hash.bmff.v3",
+                "hash": {
+                  "binary_bytes": 32
+                }
+              }
+            ],
+            "signature": "self#jumbf=c2pa.signature",
+            "alg": "sha256"
+          },
+          {
+            "actions": [
+              {
+                "action": "c2pa.opened",
+                "description": "Opened by Google Generative AI.",
+                "parameters": {
+                  "ingredients": [
+                    {
+                      "url": "self#jumbf=c2pa.assertions/c2pa.ingredient.v3",
+                      "hash": {
+                        "binary_bytes": 32
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "action": "c2pa.edited",
+                "description": "Edited by Google Generative AI.",
+                "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia"
+              },
+              {
+                "action": "c2pa.edited",
+                "description": "Added imperceptible SynthID watermark",
+                "digitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia"
+              }
+            ]
+          },
+          {
+            "relationship": "parentOf"
+          }
+        ],
+        "prompt_found": false,
+        "findings": {
+          "prompt": "not_found_in_inspected_metadata",
+          "exact_model_version": null,
+          "signature_validation": "not_performed",
+          "producer_tag": "Google",
+          "c2pa_present": true,
+          "synthid_assertion_present": true,
+          "input_image_software": null
+        }
+      }
+    ]
+  }
 }
