@@ -188,3 +188,8 @@ npm run locate -- 7
 `npm run regression:quick` — сборка и функциональная проверка; `npm run regression:full` — переходы, шаги, iframe и PNG-сравнение.
 Выборочно: `npm run regression:full -- --slide=30`; при изменении общего файла добавляйте `--changed=src/styles/FILE.css` или путь JS/ассета.
 Правила принятия эталонов, профиль и найденные проблемы: `docs/REGRESSION_PLAN.md`; фактический отчёт: `docs/REGRESSION_RESULTS.md`.
+
+
+## Реестр генераций
+
+Для просмотра: [HTML с картинками и ссылками на слайды](docs/generation_registry/index.html). Для передачи ИИ: [registry.json](docs/generation_registry/registry.json) и [инструкция](docs/generation_registry/FOR_AI.md). Оригиналы и промпты находятся внутри проекта. Перед открытием ссылок на презентацию выполните `npm run build`; обновление реестра — `npm run registry:build`.

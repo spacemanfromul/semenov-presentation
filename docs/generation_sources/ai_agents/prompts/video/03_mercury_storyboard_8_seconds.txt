@@ -1,0 +1,15 @@
+Create an 8-second seamless looping animation, square 1:1 format, with a fully transparent alpha background.
+
+Visual style: A glossy neon-green liquid metal sphere, resembling mercury, with realistic surface tension, fluid deformation, reflective highlights, and a subtle green glow. Minimalist premium 3D motion graphics.
+
+Exact animation sequence:
+0–1s: A single green liquid-metal sphere smoothly rolls from left to right, subtly deforming like a mercury droplet.
+1–2s: The sphere makes one gentle elastic bounce, stretching slightly upward.
+2–3s: During the bounce, the sphere physically splits into exactly 8 smaller liquid-metal droplets. The split must be continuous and fluid, not a sudden appearance of new spheres.
+3–4s: All 8 droplets float outward and form a loose, balanced three-dimensional cluster.
+4–5s: The 8 droplets hover motionlessly in the air, maintaining their individual spherical shapes.
+5–6s: The droplets begin moving toward the center, attracted by an invisible force.
+6–7s: All 8 droplets touch and physically fuse together through realistic liquid-metal surface tension, forming one single large sphere.
+7–8s: The sphere settles back into its original shape and position, ready to repeat the animation seamlessly.
+
+Important constraints: Exactly 8 smaller droplets, never more. Preserve the total volume of liquid throughout the transformation. All droplets must originate from the original sphere and visibly merge back together. No disappearing, teleporting, particle explosions, extra objects, text, shadows, ground plane, or camera movement. Fixed camera, centered composition, fully transparent background.

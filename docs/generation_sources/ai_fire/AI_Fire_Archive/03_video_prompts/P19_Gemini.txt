@@ -1,0 +1,8 @@
+Animate this image as a seamless loop.
+Do not change the pose.
+Keep the character completely still.
+Animate only the turquoise flame, glowing particles and floating energy fragments in the hand area.
+Keep the whole image fully visible.
+No crop.
+Static camera.
+No jelly motion.

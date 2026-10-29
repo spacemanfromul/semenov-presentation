@@ -1,0 +1,5 @@
+Animate the photo.
+Seamless loop.
+Do not change the pose.
+Only animate the fire.
+Keep the full image visible.

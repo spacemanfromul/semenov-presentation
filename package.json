@@ -12,6 +12,7 @@
     "regression:quick": "node scripts/regression/run.mjs",
     "regression:full": "node scripts/regression/run.mjs --full",
     "regression:approve": "node scripts/regression/approve-baselines.mjs",
-    "test:regression-tools": "node scripts/regression/test-tools.mjs"
+    "test:regression-tools": "node scripts/regression/test-tools.mjs",
+    "registry:build": "node scripts/build-generation-registry.mjs"
   }
 }

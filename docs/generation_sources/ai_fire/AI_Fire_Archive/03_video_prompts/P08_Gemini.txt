@@ -1,0 +1,36 @@
+Animate the provided image into an 8-second seamless looping video.
+
+CRITICAL: The turquoise magical fire must behave like REAL BURNING FIRE, not liquid, jelly, smoke or a moving energy blob.
+
+FIRE ANIMATION:
+- The main glowing sphere remains completely stationary, maintaining its original size, position and overall silhouette.
+- Only individual tongues of cyan flame are animated.
+- Thin flame tongues emerge from the base, naturally rise upward, stretch into sharp tips and gradually disappear.
+- New flame tongues continuously replace the disappearing ones.
+- The flame edges flicker subtly and naturally, like real fire burning in slow motion.
+- Small glowing embers gently rise and fade away.
+- The bright turquoise core remains stable.
+- The glowing "AI" letters remain perfectly still and readable.
+
+STRICTLY FORBIDDEN:
+- No jelly-like movement.
+- No rubbery deformation.
+- No morphing, wobbling or bouncing.
+- No breathing, expanding or contracting of the sphere.
+- No liquid waves or rotating energy blobs.
+- No movement of the entire fireball.
+- No random image distortion.
+- No sudden flickering or frame-to-frame jitter.
+
+CHARACTER:
+The man, face, eyes, clothes, hand and fingers remain absolutely motionless. Animate only the small individual flame tongues and glowing embers.
+
+COMPOSITION:
+Static camera. Preserve the entire original image using CONTAIN framing. Scale down uniformly if necessary. Keep at least 10% safe margins on every side. Never crop any part of the character or fire.
+
+Keep the original anime style and colors. Preserve the transparent background if supported.
+
+LOOP:
+8-second continuous animation with natural, steady combustion. The first and last frames should visually match without a jump or transition.
+
+The final result must look like a real turquoise flame burning steadily above a completely motionless hand, NOT a gelatinous glowing object.

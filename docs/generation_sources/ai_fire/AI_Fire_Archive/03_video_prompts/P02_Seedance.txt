@@ -1,0 +1,23 @@
+Use the provided image as the exact visual reference.
+
+Create a perfectly seamless 8-second looping animation.
+
+**Animate ONLY the turquoise magical AI flame above the man's palm.**
+
+The magical fire gently burns, flickers and swirls upward in a continuous, smooth cycle. The flame maintains its original overall shape and position, forming a stable glowing energy sphere.
+
+Small cyan particles softly shimmer and circulate around the flame. The glowing "AI" letters remain completely stationary, sharp and readable.
+
+**Everything else must remain perfectly still:**
+- The man's face, eyes, head and expression.
+- His extended hand and fingers.
+- His clothing and entire body.
+- The camera and framing.
+
+Preserve the exact original anime illustration style, colors, lighting and composition.
+
+Keep the original transparent background. Do not add any scenery.
+
+**LOOP REQUIREMENT:** The animation must return smoothly to its exact initial state. The first and last frames should match perfectly. No cuts, zooms, camera movement or transitions.
+
+Only the turquoise flame and tiny glowing particles are moving.

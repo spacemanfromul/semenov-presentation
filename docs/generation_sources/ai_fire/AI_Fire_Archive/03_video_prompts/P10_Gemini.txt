@@ -1,0 +1,8 @@
+Only animate the turquoise flame.
+It should burn like real fire, with thin flame tongues moving upward.
+The fireball shape stays stable.
+The character stays completely still.
+Keep the full image visible in frame.
+Static camera.
+Seamless loop.
+No jelly motion, no morphing, no wobble.

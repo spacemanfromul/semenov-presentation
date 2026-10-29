@@ -1,0 +1,121 @@
+[
+  {
+    "bytes": 2770074,
+    "entry": "source/video_original.mp4",
+    "archive": "book",
+    "local_path": "docs/generation_registry/media/bdcbcf1c7acedad14157f94c1d69d5ec3730f196a56a52cdff694d8e4910915f.mp4",
+    "sha256": "bdcbcf1c7acedad14157f94c1d69d5ec3730f196a56a52cdff694d8e4910915f"
+  },
+  {
+    "bytes": 22321135,
+    "entry": "results/kniga_transparent.webm",
+    "archive": "book",
+    "local_path": "docs/generation_registry/media/345621d5fd14bc1b60abc27520f009a3985530b7e88e5039939f537653b60756.webm",
+    "sha256": "345621d5fd14bc1b60abc27520f009a3985530b7e88e5039939f537653b60756"
+  },
+  {
+    "bytes": 7174554,
+    "entry": "results/kniga_transparent_compact.webm",
+    "archive": "book",
+    "local_path": "docs/generation_registry/media/5b914cd49860868648a248c2100f9e1983c4ff057ab6707c4c80ec922006780e.webm",
+    "sha256": "5b914cd49860868648a248c2100f9e1983c4ff057ab6707c4c80ec922006780e"
+  },
+  {
+    "bytes": 372130,
+    "entry": "previews/original_t4s.png",
+    "archive": "book",
+    "local_path": "docs/generation_registry/media/4a45905ef4b0b388319ae3d4d1c89aa936283c766207960f54de0a9cfc53a6d5.png",
+    "sha256": "4a45905ef4b0b388319ae3d4d1c89aa936283c766207960f54de0a9cfc53a6d5"
+  },
+  {
+    "bytes": 619200,
+    "entry": "previews/alpha_t4s.png",
+    "archive": "book",
+    "local_path": "docs/generation_registry/media/56e99d884321b355afcff574a4418bc29ee0094f3282dec4737d555b7dcd02f1.png",
+    "sha256": "56e99d884321b355afcff574a4418bc29ee0094f3282dec4737d555b7dcd02f1"
+  },
+  {
+    "bytes": 436734,
+    "entry": "previews/composite_on_light_t4s.png",
+    "archive": "book",
+    "local_path": "docs/generation_registry/media/c103efd235c3d2f08b557c53633099f1990f1a38b2baa437ce8079d20f2c1a00.png",
+    "sha256": "c103efd235c3d2f08b557c53633099f1990f1a38b2baa437ce8079d20f2c1a00"
+  },
+  {
+    "bytes": 357606,
+    "entry": "previews/composite_on_dark_t4s.png",
+    "archive": "book",
+    "local_path": "docs/generation_registry/media/32b0a0db45c42f7516761fdf32e943fdd36f8527f49853771aa33b967578baa3.png",
+    "sha256": "32b0a0db45c42f7516761fdf32e943fdd36f8527f49853771aa33b967578baa3"
+  },
+  {
+    "bytes": 429114,
+    "entry": "previews/composite_on_checker_t4s.png",
+    "archive": "book",
+    "local_path": "docs/generation_registry/media/ebf3c416f2d3b01338548f58632cb6fb059df2a0dc1291b138ce3292bf89dcd9.png",
+    "sha256": "ebf3c416f2d3b01338548f58632cb6fb059df2a0dc1291b138ce3292bf89dcd9"
+  },
+  {
+    "bytes": 268176,
+    "entry": "01_references/kitty_reference.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/326a4413f710eceec8f170120172f144674035eca171927e73fd4efd6f5f85e2.png",
+    "sha256": "326a4413f710eceec8f170120172f144674035eca171927e73fd4efd6f5f85e2"
+  },
+  {
+    "bytes": 3281898,
+    "entry": "01_references/fighting_game_reference.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/2538df8ca95608f2a5aaf89a45e153f0bc4d3f6f2d72759e26559ca18f7c5f50.png",
+    "sha256": "2538df8ca95608f2a5aaf89a45e153f0bc4d3f6f2d72759e26559ca18f7c5f50"
+  },
+  {
+    "bytes": 2542824,
+    "entry": "02_generations/01_versus_composite.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/18b94b42d6cc2a8c0765fbc28ead17a35344bf08cc3d818b491990cc13556844.png",
+    "sha256": "18b94b42d6cc2a8c0765fbc28ead17a35344bf08cc3d818b491990cc13556844"
+  },
+  {
+    "bytes": 2127283,
+    "entry": "02_generations/02_kitty_cutout.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/147d5d686b616893c888959185b477ab415b982ec080eb4205fb652f97e018f0.png",
+    "sha256": "147d5d686b616893c888959185b477ab415b982ec080eb4205fb652f97e018f0"
+  },
+  {
+    "bytes": 2886343,
+    "entry": "02_generations/03_dragon_cutout_first.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/5421b00c296b430a5d674465bc5fbbb821334500e72f5b41aa945cca12dc33a2.png",
+    "sha256": "5421b00c296b430a5d674465bc5fbbb821334500e72f5b41aa945cca12dc33a2"
+  },
+  {
+    "bytes": 1564018,
+    "entry": "02_generations/04_vs_cutout.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/077149ba55f7a50f0343108c7c99d8c90d8fb596fbde4a527c61969473d7cc7b.png",
+    "sha256": "077149ba55f7a50f0343108c7c99d8c90d8fb596fbde4a527c61969473d7cc7b"
+  },
+  {
+    "bytes": 2396820,
+    "entry": "02_generations/05_battlefield_background.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/6be844b9b9296a65ce5723c8c191175fcfcc6b74c701a61301b2db3aacde25ad.png",
+    "sha256": "6be844b9b9296a65ce5723c8c191175fcfcc6b74c701a61301b2db3aacde25ad"
+  },
+  {
+    "bytes": 2580049,
+    "entry": "02_generations/06_dragon_cutout_fixed.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/21afab8fdc61166d291a88739b439ee01425500e9e83a0153103e13dac15e799.png",
+    "sha256": "21afab8fdc61166d291a88739b439ee01425500e9e83a0153103e13dac15e799"
+  },
+  {
+    "bytes": 1670640,
+    "entry": "03_html_preview/final_frame.png",
+    "archive": "knight",
+    "local_path": "docs/generation_registry/media/8d00e558a90eac906a01174f977735eaa1d60eae9030fae622e4844db5d049a3.png",
+    "sha256": "8d00e558a90eac906a01174f977735eaa1d60eae9030fae622e4844db5d049a3"
+  }
+]

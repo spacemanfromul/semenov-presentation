@@ -1,0 +1,1 @@
+Motion intensity: very low. Prioritize smoothness and stability over visible animation.

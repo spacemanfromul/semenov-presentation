@@ -1,0 +1,61 @@
+{
+  "archive_created_utc": "2026-10-28",
+  "scope": "video with book, available files; related prompts separated",
+  "assistant_model_for_archive": "GPT-6",
+  "files": [
+    {
+      "archive_path": "source/video_original.mp4",
+      "original_filename": "video (2).mp4",
+      "sha256": "bdcbcf1c7acedad14157f94c1d69d5ec3730f196a56a52cdff694d8e4910915f",
+      "bytes": 2770074,
+      "duration_seconds": 10.005,
+      "container": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video_codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": "24/1",
+      "pixel_format_ffprobe": "yuv420p",
+      "alpha_mode_metadata": null,
+      "audio_codec": "aac",
+      "generative_model": null,
+      "generative_model_status": "NOT_IDENTIFIABLE_FROM_FILE",
+      "processing_note": "Исходное видео пользователя; модель/сервис генерации не подтверждены."
+    },
+    {
+      "archive_path": "results/kniga_transparent.webm",
+      "original_filename": "kniga_transparent.webm",
+      "sha256": "345621d5fd14bc1b60abc27520f009a3985530b7e88e5039939f537653b60756",
+      "bytes": 22321135,
+      "duration_seconds": 10.008,
+      "container": "matroska,webm",
+      "video_codec": "vp9",
+      "width": 1280,
+      "height": 720,
+      "fps": "24/1",
+      "pixel_format_ffprobe": "yuv420p",
+      "alpha_mode_metadata": "1",
+      "audio_codec": "opus",
+      "generative_model": null,
+      "generative_model_status": "NOT_IDENTIFIABLE_FROM_FILE",
+      "processing_note": "Техническое преобразование уже существующего видео; не отдельная ИИ-генерация. Модель исходника неизвестна."
+    },
+    {
+      "archive_path": "results/kniga_transparent_compact.webm",
+      "original_filename": "kniga_transparent_compact.webm",
+      "sha256": "5b914cd49860868648a248c2100f9e1983c4ff057ab6707c4c80ec922006780e",
+      "bytes": 7174554,
+      "duration_seconds": 10.008,
+      "container": "matroska,webm",
+      "video_codec": "vp9",
+      "width": 1280,
+      "height": 720,
+      "fps": "24/1",
+      "pixel_format_ffprobe": "yuv420p",
+      "alpha_mode_metadata": "1",
+      "audio_codec": "opus",
+      "generative_model": null,
+      "generative_model_status": "NOT_IDENTIFIABLE_FROM_FILE",
+      "processing_note": "Техническое преобразование уже существующего видео; не отдельная ИИ-генерация. Модель исходника неизвестна."
+    }
+  ]
+}

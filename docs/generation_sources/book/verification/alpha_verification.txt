@@ -1,0 +1,5 @@
+Frame at t=4s, compact WebM decoded using ffmpeg -c:v libvpx-vp9 to RGBA PNG.
+Alpha min/max: (0, 255).
+Fully transparent pixels: 647660/921600.
+WebM metadata alpha_mode=1 for both WebM files.
+Pass: transparency is real and not only a visually black background.

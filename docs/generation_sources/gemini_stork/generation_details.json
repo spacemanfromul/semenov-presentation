@@ -1,0 +1,46 @@
+{
+    "project": "Сценарии и промпты для видеоролика (Аист и Космолеты)",
+    "generation_date": "2026-10-28",
+    "model_info": {
+        "text_model": "Gemini",
+        "video_generation_model": "Google Video Generation Model (Veo / Imagen Video Architecture)",
+        "image_source": "Пользовательское изображение (26567.png)"
+    },
+    "generations": [
+        {
+            "id": 1,
+            "prompt_en": "A tired white stork barely flying out of heavy clouds, holding a heavy sagging net filled with glowing glass orbs without any text or labels. In the upper bright sky, sleek ultra-futuristic white spaceships without text zoom past at extreme speed, leaving vibrant neon light trails. Vertical 9:16 aspect ratio, clean image, no text, no letters, no logos",
+            "prompt_ru_description": "Уставший аист взлетает из туч с сеткой светящихся шаров без надписей. Сверху на высокой скорости пролетают футуристичные космолеты с неоновыми шлейфами. Вертикальный формат 9:16, без текста.",
+            "status": "Превышен лимит генерации (Quota Exceeded)",
+            "video_url": "http://googleusercontent.com/generated_video_content/9848761165852556735"
+        },
+        {
+            "id": 2,
+            "prompt_en": "A tired white stork barely flying out of heavy clouds, holding a heavy sagging net filled with glowing glass orbs without any text. In the upper sky, futuristic white spaceships zoom past at extreme speed leaving neon light trails. Vertical 9:16 aspect ratio, clean image, no text",
+            "prompt_ru_description": "Аист с тяжелой сеткой шаров едва машет крыльями над облаками. Космолеты со сверхзвуковой скоростью обгоняют его.",
+            "status": "Превышен лимит генерации (Quota Exceeded)",
+            "video_url": "http://googleusercontent.com/generated_video_content/17948258586391326612"
+        },
+        {
+            "id": 3,
+            "prompt_en": "A tired white stork barely flying out of heavy clouds, holding a heavy sagging net filled with glowing glass orbs without text. Futuristic white spaceships without text zoom past at extreme speed leaving neon light trails. Vertical 9:16 aspect ratio, clean image, no text",
+            "prompt_ru_description": "Повторная генерация ролика с аистом и пролетающими над ним космолетами без надписей.",
+            "status": "Успешно сгенерировано (Success)",
+            "video_url": "http://googleusercontent.com/generated_video_content/5579085052287335189"
+        },
+        {
+            "id": 4,
+            "prompt_en": "A tired white stork carrying a sagging net with glowing orbs struggling to fly out of heavy clouds at the bottom of the frame, flapping wings heavily. Sleek futuristic spaceships zoom past overhead at extreme speed in the upper sky leaving neon light trails. Vertical 9:16 aspect ratio, clean image without any text, letters, or logos",
+            "prompt_ru_description": "Аист в нижней части кадра тяжело машет крыльями. В верхней части неба со сверхскоростью пролетают неоновые космолеты.",
+            "status": "Успешно сгенерировано (Success)",
+            "video_url": "http://googleusercontent.com/generated_video_content/4703822479141048157"
+        },
+        {
+            "id": 5,
+            "prompt_en": "A white stork carrying a sagging net of glowing orbs flies out from debris and wreckage. Two sleek spaceships driven by AI robots at the steering wheels pull up alongside the stork, then rapidly accelerate forward. The camera turns to reveal the spaceships shrinking into the distance as a tiny point of light, while the stork slowly flies along, dropping one of the glowing orbs from the net. Vertical 9:16 aspect ratio, clean image without any text, letters, or logos",
+            "prompt_ru_description": "Новый сценарий: Аист вылетает из обломков, с ним ровняются два космолета с ИИ-роботами за штурвалом. Космолеты резко ускоряются и уходят в точку, а аист роняет один из шариков.",
+            "status": "Превышен лимит генерации (Quota Exceeded)",
+            "video_url": "http://googleusercontent.com/generated_video_content/1165661417998847355"
+        }
+    ]
+}

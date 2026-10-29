@@ -1,0 +1,1 @@
+Avoid strobing, jitter, frame-to-frame wobble, shape instability, sudden deformation, or noisy flicker.

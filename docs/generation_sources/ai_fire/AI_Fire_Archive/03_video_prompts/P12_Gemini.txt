@@ -1,0 +1,7 @@
+Animate the image into a seamless loop.
+Do not change the pose.
+Keep the character still.
+Only animate the turquoise fire.
+Keep the full image visible.
+No crop.
+Static camera.

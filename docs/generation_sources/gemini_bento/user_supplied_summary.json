@@ -1,0 +1,40 @@
+{
+  "source": "Текст сводки Gemini, переданный пользователем в сообщении 29 октября 2026",
+  "company": "Сервисная компания по обслуживанию банковского оборудования",
+  "style": "Темно-серый/темно-синий и ярко-зеленые акценты",
+  "format": "Вертикальные зацикленные видео 9:16 для Bento-grid",
+  "model_reported": "Google Imagen / Video Generation Model",
+  "tool_reported": "video_generation.generate_video_from_inputs",
+  "model_exact": null,
+  "references": [
+    "26546_3.jpg — сотрудник в тёмно-синем поло с зелёными акцентами",
+    "26544.jpg — брендированный терминал"
+  ],
+  "items": [
+    {
+      "id": "bento-engineer",
+      "title": "Инженер за обслуживанием терминала",
+      "text": "change the polo shirt color to dark navy blue with bright green trim as shown in 26546_3.jpg, vertical 9:16 aspect ratio, clean video without text, video language Russian",
+      "status": "Успешно сгенерировано и отредактировано — по сводке Gemini",
+      "url": "http://googleusercontent.com/generated_video_content/11373166932662345389"
+    },
+    {
+      "id": "bento-van",
+      "title": "Выездной сервис / 24/7",
+      "text": "White service van with green brand stripes driving smoothly along modern city highway, sleek cinematic motion blur background, seamless driving loop, video language Russian",
+      "status": "Резервный концепт; запуск не подтверждён"
+    },
+    {
+      "id": "bento-office",
+      "title": "Офисное оборудование и IT",
+      "text": "Modern green bank branch interior, self-service payment terminal screen displaying green checkmark animation, glowing LED lights, clean high-tech atmosphere, seamless loop, video language Russian",
+      "status": "Резервный концепт; запуск не подтверждён"
+    },
+    {
+      "id": "bento-monitoring",
+      "title": "Мониторинг и аналитика",
+      "text": "Close up of high-tech digital map interface showing green dots and operational metrics for bank equipment, glowing green data lines, seamless loop animation, video language Russian",
+      "status": "Резервный концепт; запуск не подтверждён"
+    }
+  ]
+}

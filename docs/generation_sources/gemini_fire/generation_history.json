@@ -1,0 +1,31 @@
+{
+    "history": [
+        {
+            "turn": 1,
+            "user_prompt": "Сгенери видео что оно начиналось с этой картинки и заканчивалась, зацикленно видео где только огонь анамирован",
+            "image_reference": "26873.png",
+            "video_generation_prompt": "Seamlessly looping animation where only the blue fire with the text AI in the hand is flickering and burning animatedly, while the rest of the character and background remains completely static, video language Russian",
+            "model_used": "Google Veo (Video Generation Model)",
+            "video_url": "http://googleusercontent.com/generated_video_content/10956677535435591445",
+            "status": "Success"
+        },
+        {
+            "turn": 2,
+            "user_prompt": "Видео 3:4 соотношение",
+            "image_reference": "26873.png",
+            "video_generation_prompt": "Seamlessly looping animation in 3:4 aspect ratio where only the blue fire with the text AI in the hand is flickering and burning animatedly, while the rest of the character and background remains completely static, video language Russian",
+            "model_used": "Google Veo (Video Generation Model)",
+            "video_url": "http://googleusercontent.com/generated_video_content/11678346155341770777",
+            "status": "Success"
+        },
+        {
+            "turn": 3,
+            "user_prompt": "Человек молчит",
+            "image_reference": "26873.png",
+            "video_generation_prompt": "make the person completely silent with mouth closed and static, seamlessly looping animation in 3:4 aspect ratio where only the blue fire in the hand is animatedly burning and flickering",
+            "model_used": "Google Veo (Video Generation Model)",
+            "video_url": "http://googleusercontent.com/generated_video_content/3008906743293916940",
+            "status": "Success"
+        }
+    ]
+}

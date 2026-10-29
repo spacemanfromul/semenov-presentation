@@ -1,0 +1,26 @@
+Create a perfectly seamless looping animation using the provided reference image.
+
+**Animation:**
+- The turquoise and cyan magical fire gently burns, flickers and flows upward continuously.
+- The flame forms a stable, glowing magical sphere above the man's open palm.
+- Small luminous particles and geometric fragments slowly float around the flame.
+- The glowing "AI" letters remain perfectly sharp, readable, stationary and unchanged.
+- The flame's brightness subtly pulses without changing its overall size or shape.
+
+**Character:**
+- The man remains completely still, like a static illustration.
+- His hand, fingers, face, eyes, head, clothing and body do not move.
+- Preserve the exact original anime art style, colors, facial features and clothing.
+
+**Camera and composition:**
+- Completely locked camera. No zoom, pan, rotation or shake.
+- Preserve the entire character, extended hand and flame within the frame.
+- Keep the original transparent background. Do not generate scenery.
+
+**Perfect seamless loop:**
+- Duration: 8 seconds.
+- The first and last frames must be visually identical.
+- All flame and particle movements must form continuous repeating cycles.
+- No sudden changes, cuts, transitions or fade-in/fade-out.
+
+Only the magical fire and surrounding particles are animated. Everything else stays perfectly still.

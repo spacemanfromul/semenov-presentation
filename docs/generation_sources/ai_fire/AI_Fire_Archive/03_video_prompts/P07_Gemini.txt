@@ -1,0 +1,39 @@
+Animate the provided reference image into a perfectly seamless 8-second looping video.
+
+**CRITICAL — FULL IMAGE FIT:**
+Preserve the ENTIRE original illustration. Fit the complete character and all visual elements inside the video frame.
+
+Use "contain" framing, NOT "cover" or crop.
+
+If necessary, scale DOWN the entire illustration uniformly to fit within the frame. Add empty transparent space around the character.
+
+Leave at least 10% safe margins on ALL FOUR SIDES.
+
+The head, shoulders, entire extended arm, hand, torso and complete turquoise AI flame must remain fully visible throughout the video.
+
+NEVER crop, zoom in, stretch or cut off any part of the original image.
+
+**ANIMATION:**
+Only the turquoise magical AI fire gently burns.
+
+The flame moves extremely smoothly, with slow, continuous, fluid motion. Soft tongues of fire flow upward and gently circulate inside a stable glowing sphere.
+
+No sudden flickering, jitter, shaking, rapid pulsing or abrupt changes.
+
+Keep the glowing "AI" letters sharp, readable and completely stationary.
+
+**CHARACTER:**
+The entire character remains perfectly motionless. No movement of the face, eyes, head, hands, fingers, clothing or body.
+
+**CAMERA:**
+Completely static camera. No zoom, pan, rotation, camera shake or reframing.
+
+**BACKGROUND:**
+Preserve the original transparent background if supported. Do not add scenery or background objects.
+
+**SEAMLESS LOOP:**
+The first and last frames must match visually. Flame movement must be slow, periodic and continuous, without any visible restart, transition or fade.
+
+Duration: 8 seconds.
+
+Prioritize full character visibility, perfectly stable composition and extremely smooth flame animation over dramatic effects.

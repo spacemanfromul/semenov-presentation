@@ -148,4 +148,7 @@
   setDebugOpen(false);
   updateFullscreen();
   window.setInterval(refresh,180);refresh();
+  // Registry links can open a specific slide without replaying earlier animations.
+  const linkedSlide=new URLSearchParams(location.search).get("slide");
+  if(linkedSlide!==null&&/^\d+$/.test(linkedSlide)){window.__deckJump(Number(linkedSlide));refresh();}
 })();

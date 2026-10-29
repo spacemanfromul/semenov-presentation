@@ -1,0 +1,30 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "vp9",
+      "codec_type": "video",
+      "width": 1280,
+      "height": 720,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "tags": {
+        "alpha_mode": "1"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "opus",
+      "codec_type": "audio",
+      "avg_frame_rate": "0/0",
+      "tags": {}
+    }
+  ],
+  "format": {
+    "format_name": "matroska,webm",
+    "duration": "10.008000",
+    "size": "7174554"
+  }
+}

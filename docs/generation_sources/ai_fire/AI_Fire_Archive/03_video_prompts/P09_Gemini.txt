@@ -1,0 +1,8 @@
+Animate only the turquoise fire above the hand.
+The fire must burn like real flame, with small flame tongues rising upward.
+Do not animate the character.
+Do not crop the image.
+Keep the whole image fully visible.
+Static camera.
+Seamless loop.
+No jelly, no blob motion, no wobbling.

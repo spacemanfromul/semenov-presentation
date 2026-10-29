@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "file": "00_original.png",
+      "source": "user upload",
+      "model_exact": "unknown",
+      "metadata_label": null,
+      "gen_id": null,
+      "user_request_verbatim": null,
+      "sha256": "7be04979da9b337842c46e5dbd8c4ed7144b9e61d17c1a06f45c10b33a778e74",
+      "bytes": 3056413
+    },
+    {
+      "file": "01_alexander_nevsky_inspired.png",
+      "source": "ChatGPT image_gen.text2im",
+      "model_exact": "unknown",
+      "metadata_label": "DALL-E generation metadata",
+      "gen_id": "89b26f6e-2a7c-4e15-beb6-2f00e7b8b5e8",
+      "user_request_verbatim": "замени самурая на русского богатыря тпа князя алксандра невского",
+      "sha256": "620f15fd270065f9ab26840b6c2dff5b197cab061caf3d092d08d44e87c9a254",
+      "bytes": 2148105
+    },
+    {
+      "file": "02_generic_bogatyr.png",
+      "source": "ChatGPT image_gen.text2im",
+      "model_exact": "unknown",
+      "metadata_label": "DALL-E generation metadata",
+      "gen_id": "7d20af94-c0a2-429c-91a6-89bd63809b66",
+      "user_request_verbatim": "пусть это будет просто богатырь не князь Невский",
+      "sha256": "c3a6a7908cbc5c1c1a76db128e8cb65e1f36b71b856b60302ee961a241d7b07b",
+      "bytes": 2434074
+    },
+    {
+      "file": "03_cyan_spirit.png",
+      "source": "ChatGPT image_gen.text2im",
+      "model_exact": "unknown",
+      "metadata_label": "DALL-E generation metadata",
+      "gen_id": "2518a1f5-3ebe-4955-8bfa-21265bc06283",
+      "user_request_verbatim": "лицо как это дух и он весь должнен цвета сине берозвыц полу прозрачнй",
+      "sha256": "93afe604b19ed1fdd0fcb6b97c4cdc7beb8709f6945b29a45bfa4b456c6b6a26",
+      "bytes": 2395312
+    }
+  ]
+}

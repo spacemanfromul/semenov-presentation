@@ -1,0 +1,22 @@
+Animate the uploaded image with extremely subtle motion. Preserve the original anime illustration, character designs, colors, and composition exactly.
+
+CAMERA AND FRAMING — CRITICAL:
+Use a fixed camera with absolutely no zoom, crop, pan, or camera movement. Scale down the entire original illustration uniformly to 75% of the video frame, keeping it perfectly centered. The FULL illustration must remain visible throughout the entire video, including the tiger's head, all floating code panels, both keyboards, hands, and green energy effects. Leave generous empty transparent margins on all four sides. Use "contain", NOT "cover". Never fill the frame by cropping the artwork.
+
+ANIMATION:
+- The tiger samurai AI spirit gently floats up and down in the air, moving only a few pixels.
+- The tiger samurai AI spirit must be semi-transparent / partially translucent, clearly ghostlike, while remaining fully visible.
+- Both the human developer and the tiger spirit continuously type on their own keyboards with subtle, realistic finger movements.
+- The human's body and face remain almost completely still.
+- The tiger's body remains stable while gently hovering.
+- The floating code panels remain in place, with very subtle blinking code lines.
+- Green energy accents gently pulse without changing their shape.
+
+LOOP:
+Create a 6-second perfectly seamless animation loop. The final frame must match the first frame in position, scale, and appearance. No transitions, sudden movements, or scene changes.
+
+BACKGROUND:
+Fully transparent background with alpha channel. No environment, no floor, no shadows, no solid background.
+
+STRICT RESTRICTIONS:
+No camera zoom. No cropping. No reframing. No new objects. No additional fingers. No character redesign. No facial changes. No moving keyboards. No exaggerated animation. No text or logos. Preserve the exact original illustration.

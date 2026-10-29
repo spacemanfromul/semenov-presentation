@@ -1,0 +1,232 @@
+{
+  "title": "Knight Kitty vs Dragon — история ассетов и анимации",
+  "created_utc": "2026-10-28",
+  "source": "текущий чат",
+  "model_note": "Для изображений доступен идентификатор image_gen и строка «DALL-E generation metadata», но конкретная версия модели недоступна. Не подменять её произвольно на DALL-E 3 / GPT Image. Для HTML точная использовавшаяся конфигурация тоже не подтверждена.",
+  "missing": "HTML-файлы были созданы ранее, но их байты сейчас не доступны в рабочем контейнере и не были подставлены имитациями.",
+  "steps": [
+    {
+      "id": 1,
+      "type": "image_generation",
+      "name": "Полная VS-сцена",
+      "model": "OpenAI image_gen (в метаданных указано «DALL-E generation»; точная версия модели не раскрыта)",
+      "model_version": "unknown",
+      "gen_id": "c7e68dda-56a8-4866-9172-6e548382cd7b",
+      "prompt": "Create a dramatic pre-fight versus splash screen in the style of a fighting game intro. Image A is the visual reference for the knight cat character: use a cute small orange kitten wearing silver medieval armor and a light cape, holding a sword, preserving the adorable brave look. Place this knight cat on the RIGHT side of the frame in a fighting stance, facing left. Image B is a composition and mood reference for a versus screen: use a bold cinematic head-to-head layout with two fighters facing each other and a large glowing fiery \"VS\" in the center. On the LEFT side, depict a powerful dragon opponent facing right. The dragon should feel intimidating and battle-ready, with fantasy styling that matches the dramatic fighting-game presentation. Put both characters against a misty battlefield with heavy fog, moody atmosphere, and a dark fantasy combat setting. Make it feel like a polished game matchup screen, with strong contrast, dynamic lighting, and an epic showdown vibe. Do not copy the exact human fighters from Image B; only use its layout and versus-screen energy.",
+      "inputs": [
+        "01_references/kitty_reference.png",
+        "01_references/fighting_game_reference.png"
+      ],
+      "outputs": [
+        "02_generations/01_versus_composite.png"
+      ],
+      "size": "1672x941"
+    },
+    {
+      "id": 2,
+      "type": "image_generation",
+      "name": "Knight Kitty, отдельный PNG",
+      "model": "OpenAI image_gen (DALL-E generation metadata)",
+      "model_version": "unknown",
+      "gen_id": "8b6fb5f4-9ffd-422a-bf09-034cc61bd41d",
+      "prompt": "Create a standalone cutout asset of the kitten knight from the previously generated versus scene. Image A is the main style and character reference: match the same cute orange tabby kitten, silver medieval armor, cream cape, pink bow near the ear, determined expression, and sword. Generate only the knight kitty as the subject, full body, facing left in a battle-ready pose, with no other elements. Keep the visual style cinematic fantasy game art, highly detailed, clean edges, and suitable for compositing. Transparent background.",
+      "inputs": [
+        "02_generations/01_versus_composite.png"
+      ],
+      "outputs": [
+        "02_generations/02_kitty_cutout.png"
+      ],
+      "size": "1254x1254"
+    },
+    {
+      "id": 3,
+      "type": "image_generation",
+      "name": "Дракон, первая версия",
+      "model": "OpenAI image_gen (DALL-E generation metadata)",
+      "model_version": "unknown",
+      "gen_id": "87b20d81-a882-409d-b72f-f65ff1cfd495",
+      "prompt": "Create a standalone cutout asset of the dragon from the previously generated versus scene. Image A is the main style and creature reference: match the same huge menacing dragon with dark charcoal and deep red scales, glowing orange eyes, layered horns and spikes, roaring mouth with fiery glow, and cinematic fantasy rendering. Generate only the dragon as the subject, facing right, with no other elements. Keep the visual style cinematic fantasy game art, highly detailed, clean edges, and suitable for compositing. Transparent background.",
+      "inputs": [
+        "02_generations/01_versus_composite.png"
+      ],
+      "outputs": [
+        "02_generations/03_dragon_cutout_first.png"
+      ],
+      "size": "1254x1254"
+    },
+    {
+      "id": 4,
+      "type": "image_generation",
+      "name": "VS на прозрачном фоне",
+      "model": "OpenAI image_gen (DALL-E generation metadata)",
+      "model_version": "unknown",
+      "gen_id": "6996e97f-ddf2-4dc2-b439-62b83396ea2b",
+      "prompt": "Create a standalone cutout asset of the central fighting-game text from the previously generated versus scene. Image A is the main reference. Generate only a large stylized fiery \"VS\" with the same fighting-game look: thick brushstroke-like flame lettering, bright yellow-orange core, red glow, dark outline, and energetic ember sparks. No characters, no scenery. Clean edges for compositing. Transparent background.",
+      "inputs": [
+        "02_generations/01_versus_composite.png"
+      ],
+      "outputs": [
+        "02_generations/04_vs_cutout.png"
+      ],
+      "size": "1254x1254"
+    },
+    {
+      "id": 5,
+      "type": "image_generation",
+      "name": "Пустой фон поля боя",
+      "model": "OpenAI image_gen (DALL-E generation metadata)",
+      "model_version": "unknown",
+      "gen_id": "8781d46c-4a25-4205-8ed3-10595f918f33",
+      "prompt": "Create the background only from the previously generated versus scene, with the characters and the central VS removed. Image A is the main reference. Show a dramatic foggy battlefield background in the same style: dark ruined medieval battlefield, smoky mist, gothic castle silhouette with spires in the distance, full moon in a cloudy night sky, tattered red banners, rocky scorched ground, embers, haze, and cinematic fantasy-game atmosphere. No kitten, no dragon, no VS text. Make it a clean empty background plate that matches the previous scene.",
+      "inputs": [
+        "02_generations/01_versus_composite.png"
+      ],
+      "outputs": [
+        "02_generations/05_battlefield_background.png"
+      ],
+      "size": "1672x941"
+    },
+    {
+      "id": 6,
+      "type": "image_edit",
+      "name": "Исправление обрезания дракона",
+      "model": "OpenAI image_gen (DALL-E generation metadata)",
+      "model_version": "unknown",
+      "gen_id": "e2550848-1eee-4f3c-870c-fadfde76e454",
+      "prompt": "Edit the provided image to fix the crop. Image A is the direct edit target: a fiery fantasy dragon isolated on a transparent background. Preserve the same dragon design, same black-and-red volcanic scales, glowing lava cracks, horns, wings, claws, roaring expression, and overall cinematic fantasy style. Expand and recompose the subject so the dragon is not awkwardly cut off: show a complete, well-framed dragon silhouette with enough empty margin around all edges, including the full head, jaw, wings, claws, torso, and tail. Keep it as a clean cutout asset on a transparent background, suitable for compositing. Do not add any scenery or text. Make the edges clean and natural, and avoid clipping any important body parts.",
+      "inputs": [
+        "02_generations/03_dragon_cutout_first.png"
+      ],
+      "outputs": [
+        "02_generations/06_dragon_cutout_fixed.png"
+      ],
+      "size": "1254x1254"
+    },
+    {
+      "id": 7,
+      "type": "html_creation",
+      "name": "Заставка по Figma",
+      "model": "ChatGPT GPT-6 (среда текущей беседы; точная конфигурация на момент первоначальной сборки HTML не подтверждена)",
+      "model_version": "unknown",
+      "prompt_user": "теперь создай html внедрив туда ассеты и чтобы была анимация слева появлется дракон выезжает слева направо а ктик выезажает спарава налево между ними ярко появляется vs фон все время отображается",
+      "reference": "https://www.figma.com/design/nwNQgVX23vume5ahkAwIBt/Untitled?node-id=190-224",
+      "outputs": [
+        "vibe_coding_vs_sdd_fighter_intro.html (недоступен для включения в текущий архив)"
+      ],
+      "details": "Фрейм Figma 1920x1080; подписи VIBE CODING и SDD. Фон статичен, герои въезжают, затем VS. Один HTML с встроенными изображениями."
+    },
+    {
+      "id": 8,
+      "type": "html_edit",
+      "name": "Убрать дёргание после выезда",
+      "model": "ChatGPT GPT-6 (текущая беседа; точная конфигурация прошлого вызова неизвестна)",
+      "model_version": "unknown",
+      "prompt_user": "убери лишнюю анимацию когда они выехали чтобы больше не дергались",
+      "outputs": [
+        "vibe_coding_vs_sdd_fighter_intro_no_jitter.html (недоступен для включения в текущий архив)"
+      ],
+      "details": "Убраны overshoot-ключевые кадры 72/87% у dragon-arrive и 74/89% у kitty-arrive; финал статичный."
+    }
+  ],
+  "files": [
+    {
+      "path": "01_references/kitty_reference.png",
+      "description": "Исходный референс котёнка, предоставленный пользователем",
+      "bytes": 268176,
+      "sha256": "326a4413f710eceec8f170120172f144674035eca171927e73fd4efd6f5f85e2",
+      "dimensions": [
+        774,
+        1032
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "01_references/fighting_game_reference.png",
+      "description": "Референс заставки файтинга, предоставленный пользователем",
+      "bytes": 3281898,
+      "sha256": "2538df8ca95608f2a5aaf89a45e153f0bc4d3f6f2d72759e26559ca18f7c5f50",
+      "dimensions": [
+        2048,
+        1085
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "02_generations/01_versus_composite.png",
+      "description": "Итоговая композиция VS",
+      "bytes": 2542824,
+      "sha256": "18b94b42d6cc2a8c0765fbc28ead17a35344bf08cc3d818b491990cc13556844",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "02_generations/02_kitty_cutout.png",
+      "description": "Отдельный Knight Kitty",
+      "bytes": 2127283,
+      "sha256": "147d5d686b616893c888959185b477ab415b982ec080eb4205fb652f97e018f0",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "02_generations/03_dragon_cutout_first.png",
+      "description": "Первая версия дракона с обрезанием",
+      "bytes": 2886343,
+      "sha256": "5421b00c296b430a5d674465bc5fbbb821334500e72f5b41aa945cca12dc33a2",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "02_generations/04_vs_cutout.png",
+      "description": "Надпись VS",
+      "bytes": 1564018,
+      "sha256": "077149ba55f7a50f0343108c7c99d8c90d8fb596fbde4a527c61969473d7cc7b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "02_generations/05_battlefield_background.png",
+      "description": "Фон",
+      "bytes": 2396820,
+      "sha256": "6be844b9b9296a65ce5723c8c191175fcfcc6b74c701a61301b2db3aacde25ad",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "02_generations/06_dragon_cutout_fixed.png",
+      "description": "Дракон с исправленным кадрированием",
+      "bytes": 2580049,
+      "sha256": "21afab8fdc61166d291a88739b439ee01425500e9e83a0153103e13dac15e799",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "03_html_preview/final_frame.png",
+      "description": "Финальный кадр HTML-анимации",
+      "bytes": 1670640,
+      "sha256": "8d00e558a90eac906a01174f977735eaa1d60eae9030fae622e4844db5d049a3",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "mode": "RGB"
+    }
+  ]
+}

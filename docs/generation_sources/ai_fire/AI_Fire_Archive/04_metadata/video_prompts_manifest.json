@@ -1,0 +1,142 @@
+[
+  {
+    "id": "P01",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Первый подробный промпт: пламя и частицы",
+    "file": "03_video_prompts/P01_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P02",
+    "target_model_or_service": "Seedance",
+    "title": "Первый подробный промпт для Seedance",
+    "file": "03_video_prompts/P02_Seedance.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P03",
+    "target_model_or_service": "Seedance",
+    "title": "Уточнение: исключительно плавное пламя",
+    "file": "03_video_prompts/P03_Seedance.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P04",
+    "target_model_or_service": "Seedance",
+    "title": "Короткая добавка: максимально спокойное пламя",
+    "file": "03_video_prompts/P04_Seedance.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P05",
+    "target_model_or_service": "Seedance",
+    "title": "Короткая добавка: немного более живое",
+    "file": "03_video_prompts/P05_Seedance.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P06",
+    "target_model_or_service": "Seedance",
+    "title": "Короткий negative prompt против рывков",
+    "file": "03_video_prompts/P06_Seedance.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P07",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Подробный промпт с полным кадрированием",
+    "file": "03_video_prompts/P07_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P08",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Пламя вместо желе: физика горения",
+    "file": "03_video_prompts/P08_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P09",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Очень короткий вариант: огонь",
+    "file": "03_video_prompts/P09_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P10",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Короткий вариант: огонь + стабильный шар",
+    "file": "03_video_prompts/P10_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P11",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Минимальный вариант: огонь",
+    "file": "03_video_prompts/P11_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P12",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Оживить фото, короткий вариант 1",
+    "file": "03_video_prompts/P12_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P13",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Оживить фото, короткий вариант 2",
+    "file": "03_video_prompts/P13_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P14",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Оживить фото, короткий вариант 3",
+    "file": "03_video_prompts/P14_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P15",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Оживить фото, финальная короткая версия",
+    "file": "03_video_prompts/P15_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P16",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Пламя, частицы, осколки в области ладони",
+    "file": "03_video_prompts/P16_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P17",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Чуть подробнее: пламя, частицы, осколки",
+    "file": "03_video_prompts/P17_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P18",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Ультракороткая версия с частицами",
+    "file": "03_video_prompts/P18_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P19",
+    "target_model_or_service": "Gemini / Veo",
+    "title": "Финальная версия с частицами, повтор в ответе",
+    "file": "03_video_prompts/P19_Gemini.txt",
+    "kind": "text only; no rendered video included"
+  },
+  {
+    "id": "P20",
+    "target_model_or_service": "Kling AI / Motion Brush",
+    "title": "Подсказка для областной анимации",
+    "file": "03_video_prompts/P20_Kling.txt",
+    "kind": "text only; no rendered video included"
+  }
+]

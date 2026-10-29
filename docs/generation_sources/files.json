@@ -1,0 +1,218 @@
+[
+  {
+    "sha256": "9a7e42a2eabb0883291566d930841e72c77d28e07e03d4bf3f4fb909ed1292d5",
+    "bytes": 123932,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/9a7e42a2eabb0883291566d930841e72c77d28e07e03d4bf3f4fb909ed1292d5.png",
+    "entry": "references/slide_original.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "c8840aea41e96f0267fa08b388a2e638d562e5cf3c04984eca96cbeb087b0b9a",
+    "bytes": 15657,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/c8840aea41e96f0267fa08b388a2e638d562e5cf3c04984eca96cbeb087b0b9a.png",
+    "entry": "references/mercury_storyboard.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "a89ab7492b504f8fe00d841d72c4ae48a0dbf7c73f7404eae28e389aab7df15b",
+    "bytes": 2608079,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/a89ab7492b504f8fe00d841d72c4ae48a0dbf7c73f7404eae28e389aab7df15b.png",
+    "entry": "references/speaker_photo.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "332c0b3fa45a9afd1666c1abf4c0dbeb6c65e4466c57eb2cd31eabe2d67ad5d5",
+    "bytes": 3788573,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/332c0b3fa45a9afd1666c1abf4c0dbeb6c65e4466c57eb2cd31eabe2d67ad5d5.png",
+    "entry": "references/shaman_king_reference.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "b860e6e494092585d961cd4da8d09e12510a51b11f02aa636cd86597238f3efb",
+    "bytes": 2586816,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/b860e6e494092585d961cd4da8d09e12510a51b11f02aa636cd86597238f3efb.png",
+    "entry": "results/01_original_developer_ghost.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "d85e84043fe979dc4b0af547e375d396d756acd906f09b799b7faf6a3b3a0f09",
+    "bytes": 2252662,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/d85e84043fe979dc4b0af547e375d396d756acd906f09b799b7faf6a3b3a0f09.png",
+    "entry": "results/02_cyberpunk_scene.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "4a03566b4a413f5ed9a5962daf7c1e4ca39646a93c48dea7f5b9c5e5b65381c9",
+    "bytes": 2695293,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/4a03566b4a413f5ed9a5962daf7c1e4ca39646a93c48dea7f5b9c5e5b65381c9.png",
+    "entry": "results/03_transparent_samurai.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "c7ed7c76657a0437facdf1b4c8c745e44a47affcd2b2d0cda988e316ab8a4db0",
+    "bytes": 2696880,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/c7ed7c76657a0437facdf1b4c8c745e44a47affcd2b2d0cda988e316ab8a4db0.png",
+    "entry": "results/04_male_samurai.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "d2d454806d3d8de42677a850ddc34aae0636d64355b519642b15b92210975a62",
+    "bytes": 2325789,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/d2d454806d3d8de42677a850ddc34aae0636d64355b519642b15b92210975a62.png",
+    "entry": "results/05_simpler_anime.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "3a63eec4c5e038193f3d3871c764fcdc511c79ac77336ea3c62915ece06d2c07",
+    "bytes": 2116455,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/3a63eec4c5e038193f3d3871c764fcdc511c79ac77336ea3c62915ece06d2c07.png",
+    "entry": "results/06_anime_revision.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "a61c4a37c81c71fb8593d4db66721158fa38d05200f5dd140132b74b4c2173e0",
+    "bytes": 1893771,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/a61c4a37c81c71fb8593d4db66721158fa38d05200f5dd140132b74b4c2173e0.png",
+    "entry": "results/07_tiger_samurai.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "1d1328608aa859a62ce2c260e467a4d5d798de7fd31651f91acc883e211fc74f",
+    "bytes": 2044810,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/1d1328608aa859a62ce2c260e467a4d5d798de7fd31651f91acc883e211fc74f.png",
+    "entry": "results/08_tiger_variant.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "a528c424090afdc4e189cc85cc171c348122ee412226f7db69ba4eeb5db0c36b",
+    "bytes": 1961101,
+    "archive_path": "archive_prompts_results_ai_agents_2026-10-28.zip",
+    "local_path": "docs/generation_registry/media/a528c424090afdc4e189cc85cc171c348122ee412226f7db69ba4eeb5db0c36b.png",
+    "entry": "results/09_tiger_no_ponytail.png",
+    "archive": "ai_agents"
+  },
+  {
+    "sha256": "7be04979da9b337842c46e5dbd8c4ed7144b9e61d17c1a06f45c10b33a778e74",
+    "bytes": 3056413,
+    "archive_path": "bogatyr_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/7be04979da9b337842c46e5dbd8c4ed7144b9e61d17c1a06f45c10b33a778e74.png",
+    "entry": "bogatyr_generation_history/00_original.png",
+    "archive": "bogatyr"
+  },
+  {
+    "sha256": "620f15fd270065f9ab26840b6c2dff5b197cab061caf3d092d08d44e87c9a254",
+    "bytes": 2148105,
+    "archive_path": "bogatyr_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/620f15fd270065f9ab26840b6c2dff5b197cab061caf3d092d08d44e87c9a254.png",
+    "entry": "bogatyr_generation_history/01_alexander_nevsky_inspired.png",
+    "archive": "bogatyr"
+  },
+  {
+    "sha256": "c3a6a7908cbc5c1c1a76db128e8cb65e1f36b71b856b60302ee961a241d7b07b",
+    "bytes": 2434074,
+    "archive_path": "bogatyr_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/c3a6a7908cbc5c1c1a76db128e8cb65e1f36b71b856b60302ee961a241d7b07b.png",
+    "entry": "bogatyr_generation_history/02_generic_bogatyr.png",
+    "archive": "bogatyr"
+  },
+  {
+    "sha256": "93afe604b19ed1fdd0fcb6b97c4cdc7beb8709f6945b29a45bfa4b456c6b6a26",
+    "bytes": 2395312,
+    "archive_path": "bogatyr_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/93afe604b19ed1fdd0fcb6b97c4cdc7beb8709f6945b29a45bfa4b456c6b6a26.png",
+    "entry": "bogatyr_generation_history/03_cyan_spirit.png",
+    "archive": "bogatyr"
+  },
+  {
+    "sha256": "7be04979da9b337842c46e5dbd8c4ed7144b9e61d17c1a06f45c10b33a778e74",
+    "bytes": 3056413,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/7be04979da9b337842c46e5dbd8c4ed7144b9e61d17c1a06f45c10b33a778e74.png",
+    "entry": "AI_Fire_Archive/01_references/R01_image(10).png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "aff53a21be67b73a156f179b563a2f83f778a4db10668b2f6073fb3744872198",
+    "bytes": 362435,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/aff53a21be67b73a156f179b563a2f83f778a4db10668b2f6073fb3744872198.png",
+    "entry": "AI_Fire_Archive/01_references/R02_videoframe_10098.png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "49434dd6b4853bf5062e9c012eff58eca801ae2e3b901d0d13c6ce6a9337ff5f",
+    "bytes": 2587103,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/49434dd6b4853bf5062e9c012eff58eca801ae2e3b901d0d13c6ce6a9337ff5f.png",
+    "entry": "AI_Fire_Archive/01_references/R03_image(20261014-103531).png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "04fd1d4b08899868549704bd07226fac2ca378b40642cb3a87dc860285087a89",
+    "bytes": 3467613,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/04fd1d4b08899868549704bd07226fac2ca378b40642cb3a87dc860285087a89.png",
+    "entry": "AI_Fire_Archive/01_references/R04_image(20261014-104308).png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "e00dc07e7fd92a4cb0e645af6506469079583083b5afc7afad0cc80c9121bf81",
+    "bytes": 2400609,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/e00dc07e7fd92a4cb0e645af6506469079583083b5afc7afad0cc80c9121bf81.png",
+    "entry": "AI_Fire_Archive/02_generated_images/G01_a_vibrant_digital_illustration_png_sticker_like_sc.png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "10cadaa0a507ae8ebabaf8eea54cb13328dcb965a19dfefebd19d40de540ac39",
+    "bytes": 2171854,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/10cadaa0a507ae8ebabaf8eea54cb13328dcb965a19dfefebd19d40de540ac39.png",
+    "entry": "AI_Fire_Archive/02_generated_images/G02_программист_и_дух_богатырь_в_коде.png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "b74559a8abcb4a4704f4fda25c81bf4d94ce86094e14cc64a9f693ef1f6e4bed",
+    "bytes": 1857622,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/b74559a8abcb4a4704f4fda25c81bf4d94ce86094e14cc64a9f693ef1f6e4bed.png",
+    "entry": "AI_Fire_Archive/02_generated_images/G03_неоновое_пламя_ai_в_ладони.png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "b222cb64bb96983418064731c6d52c76879a05027eb3c9c96daf2af52f934493",
+    "bytes": 1888601,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/b222cb64bb96983418064731c6d52c76879a05027eb3c9c96daf2af52f934493.png",
+    "entry": "AI_Fire_Archive/02_generated_images/G04_циановое_пламя_ai.png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "3bf5884494d504e0dfdb65e42ead8616eb980cd5f1dbdad70e22cb26be1df2f8",
+    "bytes": 2078279,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/3bf5884494d504e0dfdb65e42ead8616eb980cd5f1dbdad70e22cb26be1df2f8.png",
+    "entry": "AI_Fire_Archive/02_generated_images/G05_аниме_воин_с_неоновым_пламенем_ai.png",
+    "archive": "ai_fire"
+  },
+  {
+    "sha256": "7251fc8a09479b1015d04fb9132f907c3b3389a38652391441a4d74c6e803095",
+    "bytes": 2229282,
+    "archive_path": "AI_Fire_prompts_and_results.zip",
+    "local_path": "docs/generation_registry/media/7251fc8a09479b1015d04fb9132f907c3b3389a38652391441a4d74c6e803095.png",
+    "entry": "AI_Fire_Archive/02_generated_images/G06_лысый_маг_с_пламенем_ai.png",
+    "archive": "ai_fire"
+  }
+]

@@ -1,0 +1,5 @@
+Animate this image as a seamless loop.
+Do not change the pose.
+Only animate the fire.
+Keep the whole image in frame.
+No crop.
